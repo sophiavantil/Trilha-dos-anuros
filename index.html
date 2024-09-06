@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="pt-br"> <!-- idioma da página-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"> <!-- link para o css da página, href é o nome do arquivo em css-->
+    <title> Trilha dos Anuros </title> <!-- título do separador da página -->
+</head>
+
+<body> <!-- corpo da página -->
+
+    <header> <!-- cabeçalho do corpo da página -->
+        <h1> Trilha dos Anuros </h1> <!-- titulo do corpo da página-->
+    </header>
+
+    <main>
+        <Section>
+            <input type="text" placeholder="Digite aqui" id="campo-pesquisa"> <!-- barra de pesquisa-->
+            <button onclick="pesquisar()"> Pesquisar </button> <!-- botão da barra de pesquisa-->
+        </Section>
+
+        <section class="resultados-pesquisa" id="resultados-pesquisa"> <!--resultado de pesquisa-->
+        </section>
+    </main>
+
+    <footer> <!-- Rodapé-->
+        <p> 2024 - Trilha dos Anuros. Todos os direitos reservados.</p>
+    </footer>
+    <script src="dados.js"></script> <!-- dados da página-->
+    <script src="app.js"></script> <!-- lógica da página-->
+
+</body>
+
+</html>
