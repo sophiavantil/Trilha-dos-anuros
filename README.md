@@ -6,7 +6,6 @@
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades](#Funcionalidades)
-* [Demonstração](#Demonstração) 
 * [Status do Projeto](#status-do-Projeto)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -21,10 +20,6 @@ Desenvolvido na Imersão Alura.
 * **Busca:** Permite a busca por termos específicos em um conjunto de dados.
 * **Resultados:** Exibe os resultados da busca de forma clara e concisa, incluindo título, descrição, imagem e link para mais informações.
 * **Interface Responsiva:** A página se adapta a diferentes tamanhos de tela, garantindo uma boa experiência do usuário em dispositivos móveis e desktops.
-
-# Demonstração
-
-https://github.com/user-attachments/assets/acd7d86d-b129-4801-b667-ee4958df9d82
 
 # Status do Projeto
 
